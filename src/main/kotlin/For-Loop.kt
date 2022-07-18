@@ -1,4 +1,5 @@
 //Penerapan For-Loop dalam Tabel Perkalian
+//perulang for Loop
 
 fun main(args: Array<String>) {
     println("Simple multiplication table using loops:")
