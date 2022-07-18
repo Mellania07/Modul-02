@@ -1,5 +1,6 @@
 //Pemanggilan yang aman (Safe Calls)
 
+
 fun main(args: Array<String>) {
     //Safe calling
     //?.let
